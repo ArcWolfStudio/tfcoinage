@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/copper"
+  },
+  "result": {
+    "item": "tfcoinage:copper_coin",
+    "count": 20
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "hit_second_last",
+    "hit_third_last"
+  ]
+}

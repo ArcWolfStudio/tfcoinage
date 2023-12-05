@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfcoinage:bronze_coin"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bronze",
+    "amount": 20
+  },
+  "temperature": 950
+}

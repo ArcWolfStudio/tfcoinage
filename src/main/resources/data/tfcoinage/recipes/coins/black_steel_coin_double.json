@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:double_sheets/black_steel"
+  },
+  "result": {
+    "item": "tfcoinage:black_steel_coin",
+    "count": 20
+  },
+  "tier": 5,
+  "rules": [
+    "hit_last",
+    "hit_second_last",
+    "hit_third_last"
+  ]
+}

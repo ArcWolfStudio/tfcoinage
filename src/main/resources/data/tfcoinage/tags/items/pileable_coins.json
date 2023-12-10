@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tfcoinage:item/bismuth_coin",
+    "tfcoinage:item/bismuth_bronze_coin",
+    "tfcoinage:item/black_bronze_coin",
+    "tfcoinage:item/bronze_coin"
+  ]
+}

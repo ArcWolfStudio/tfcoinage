@@ -1,9 +1,23 @@
 {
   "replace": false,
   "values": [
-    "tfcoinage:item/bismuth_coin",
-    "tfcoinage:item/bismuth_bronze_coin",
-    "tfcoinage:item/black_bronze_coin",
-    "tfcoinage:item/bronze_coin"
+    "tfcoinage:bismuth_bronze_coin",
+    "tfcoinage:bismuth_coin",
+    "tfcoinage:black_bronze_coin",
+    "tfcoinage:black_steel_coin",
+    "tfcoinage:blue_steel_coin",
+    "tfcoinage:brass_coin",
+    "tfcoinage:bronze_coin",
+    "tfcoinage:copper_coin",
+    "tfcoinage:gold_coin",
+    "tfcoinage:nickel_coin",
+    "tfcoinage:red_steel_coin",
+    "tfcoinage:rose_gold_coin",
+    "tfcoinage:silver_coin",
+    "tfcoinage:steel_coin",
+    "tfcoinage:sterling_silver_coin",
+    "tfcoinage:tin_coin",
+    "tfcoinage:wrought_iron_coin",
+    "tfcoinage:zinc_coin"
   ]
 }
